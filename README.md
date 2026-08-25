@@ -1,5 +1,5 @@
 # Aster & Row — AI Support Agent
-
+DEPLOYED LINK:https://ai-agent-intern-test-2507.streamlit.app/
 An AI-powered customer support agent built for the Aster & Row AI Agent Intern take-home assignment.
 
 The agent combines **retrieval-augmented generation (RAG)**, structured order lookup, conversation memory, source prioritization, privacy controls, and deterministic business rules to answer customer support questions safely and accurately.
