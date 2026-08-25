@@ -1,0 +1,19 @@
+ASTER & ROW EVALUATION
+
+Final evaluation:
+19/22 passed
+
+Categories:
+abstention: 1/1
+conversation: 1/1
+groundedness: 3/3
+handoff: 1/1
+multi-source-grounding: 1/1
+multi_turn: 1/1
+privacy: 3/3
+prompt-security: 1/1
+retrieval: 1/2
+source-conflict: 1/1
+tool-reliability: 3/3
+tool-use: 1/2
+tool_use: 1/2
