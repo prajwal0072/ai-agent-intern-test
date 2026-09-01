@@ -1,0 +1,16 @@
+# Environment
+.env
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# Logs and traces
+agent_trace.jsonl
+
+# Streamlit secrets
+.streamlit/secrets.toml
